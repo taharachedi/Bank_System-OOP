@@ -1,0 +1,47 @@
+﻿  Bank System.cpp
+C:\Users\USER\Desktop\Bank System\Bank System\clsString.h(43,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsString.h(48,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsString.h(181,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsString.h(326,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsString.h(360,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsString.h(396,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsString.h(447,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsString.h(532,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsUser.h(219,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20System.cpp')
+      C:\Users\USER\Desktop\Bank System\Bank System\clsUser.h(157,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsClient.h(218,9): warning C4240: nonstandard extension used: access to 'clsClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20System.cpp')
+      C:\Users\USER\Desktop\Bank System\Bank System\clsClient.h(172,9):
+      see declaration of 'clsClient::stTransferLogRecord'
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsClient.h(436,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsClient.h(449,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsTotalBalancesScreen.h(66,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\USER\Desktop\Bank System\Bank System\clsClient.h(384,1): warning C4715: 'clsClient::Save': not all control paths return a value
+C:\Users\USER\Desktop\Bank System\Bank System\clsUser.h(384,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank System.vcxproj -> C:\Users\USER\Desktop\Bank System\x64\Debug\Bank System.exe
